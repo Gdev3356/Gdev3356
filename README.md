@@ -1,4 +1,7 @@
-### Hi there 👋
+#Eae, sou Gustavo
+## Como vai?
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/pt-BR/view/bean-gif-10306601))
+Sou Um Desenvolvedor iniciante, ainda estou tentando aprender mais coisas!
 
 <!--
 **Gdev3356/Gdev3356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+<a href="https://github.com/Gdev3356">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
