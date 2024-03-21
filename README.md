@@ -1,6 +1,6 @@
 #Eae, sou Gustavo
 ## Como vai?
-![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/pt-BR/view/bean-gif-10306601))
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif])
 Sou Um Desenvolvedor iniciante, ainda estou tentando aprender mais coisas!
 
 <!--
