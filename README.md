@@ -1,7 +1,8 @@
 #Eae, sou Gustavo
 ## Como vai?
-![Eae!]([[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif]](https://tenor.com/pt-BR/view/bean-gif-10306601)
+![bean](https://github.com/Gdev3356/Gdev3356/assets/156126815/3c9f9aec-c574-4ec0-8cdf-cacb25ea58cb)
 Sou Um Desenvolvedor iniciante, ainda estou tentando aprender mais coisas!
+
 
 <!--
 **Gdev3356/Gdev3356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
